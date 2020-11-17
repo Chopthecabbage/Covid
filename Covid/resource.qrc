@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/한반도.PNG</file>
+        <file>img/금지.png</file>
+        <file>img/1.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+    </qresource>
+</RCC>
